@@ -1,0 +1,10 @@
+﻿{
+	"Name": "[AHM] StarAmy's Quail Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds configuration of my animal for Animal Husbandry Mod.",
+	"UniqueID": "StarAmy.QuailRules",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ANIMALHUSBANDRYMOD"
+	}
+}

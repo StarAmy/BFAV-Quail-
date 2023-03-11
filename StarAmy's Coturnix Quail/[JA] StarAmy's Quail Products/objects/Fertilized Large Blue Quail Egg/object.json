@@ -1,0 +1,28 @@
+{
+    "Name": "Fertilized Large Blue Quail Egg",
+    "Description": "A fertilized large blue quail egg, used in the incubator.",
+    "Category": "Crafting",
+    "Edibility": 15,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Quail DNA",
+             "Count": 1,
+              },
+             {
+             "Object": "Large Blue Quail Egg",
+             "Count": 1,
+            }       
+            ],
+            "IsDefault": true,
+            },
+    "CanPurchase": false, 
+    "GiftTastes":
+   {
+        "Dislike": ["Abigail", "Alex", "Elliot", "Harvey", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}

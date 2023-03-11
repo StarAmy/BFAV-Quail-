@@ -1,0 +1,12 @@
+﻿{
+	"Name": "[PFM] StarAmy's Quail Production Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Production rules for my custom products",
+	"UniqueID": "StarAmy.QuailProductionRules",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}

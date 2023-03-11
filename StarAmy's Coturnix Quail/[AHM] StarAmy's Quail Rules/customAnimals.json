@@ -1,0 +1,41 @@
+[
+    {
+      "Name": "Male Quail",
+      "MinimalNumberOfMeat": 1,
+      "MaximumNumberOfMeat": 2,
+      "MinimumDaysBetweenTreats": 4,
+      "LikedTreats": [
+        "Sunflower Seeds",
+        "Mixed Seeds",
+        "Dandelion"
+      ],
+      "MinimumDaysUtillBirth": null,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+    {
+      "Name": "Female Quail",
+      "MinimalNumberOfMeat": 1,
+      "MaximumNumberOfMeat": 2,
+      "MinimumDaysBetweenTreats": 4,
+      "LikedTreats": [
+        "Sunflower Seeds",
+        "Mixed Seeds",
+        "Dandelion"
+      ],
+      "MinimumDaysUtillBirth": null,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+    {
+      "Name": "Female Celadon Quail",
+      "MinimalNumberOfMeat": 1,
+      "MaximumNumberOfMeat": 2,
+      "MinimumDaysBetweenTreats": 4,
+      "LikedTreats": [
+        "Sunflower Seeds",
+        "Mixed Seeds",
+        "Dandelion"
+      ],
+      "MinimumDaysUtillBirth": null,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+]

@@ -1,0 +1,10 @@
+{
+  "Name": "[JA] StarAmy's Quail Products",
+  "Author": "StarAmy",
+  "Version": "1.0",
+  "Description": "Adds products for my custom farm animals.",
+  "UniqueID": "StarAmy.QuailProducts",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}

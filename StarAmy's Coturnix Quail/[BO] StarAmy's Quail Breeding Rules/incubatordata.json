@@ -1,0 +1,9 @@
+
+{
+  "IncubatorItems": {
+    "Fertilized Quail Egg": [ "Male Quail", "Female Quail" ],
+    "Fertilized Large Quail Egg": [ "Male Quail", "Female Quail" ],
+    "Fertilized Blue Quail Egg": [ "Male Quail", "Female Quail", "Female Celadon Quail" ],
+    "Fertilized Large Blue Quail Egg": [ "Male Quail", "Female Quail", "Female Celadon Quail" ],
+  }
+  }

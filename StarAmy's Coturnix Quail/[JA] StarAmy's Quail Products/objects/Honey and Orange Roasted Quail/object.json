@@ -1,0 +1,36 @@
+{
+    "Name": "Honey and Orange Roasted Quail",
+    "Description": "A sweet, tangy twist traditional roast fowl.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 650,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Orange",
+             "Count": 1,
+              },
+             {
+             "Object": "Honey",
+             "Count": 1,
+            },
+            {
+             "Object": "Quail Meat",
+             "Count": 1,
+            }           
+            ],
+            "IsDefault": true,
+            },
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Gus" ],
+        "Like": [ "George", "Alex", "Caroline", "Jodi", "Robin", "Harvey", "Linus" ],
+        "Neutral": [ "Elliot", "Emily", "Penny", "Clint", "Evelyn", "Krobus", "Leo", "Lewis", "Sandy", "Willy", "Abigail", "Haley", "Dwarf", "Jas", "Pam", "Vincent", "Wizard", "Sam", "Demetrius", "Kent", "Marnie", "Pierre", "Shane"],
+        "Dislike": [ "Leah", "Maru", "Sebastian" ],
+
+    },
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Quail Egg",
+    "Description": "A tiny quail egg.",
+    "Category": "Egg",
+    "Edibility": 10,
+    "Price": 80,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Leah", "Jodi", "Shane" ],
+        "Like": [ "Alex", "Sam", "Demetrius", "Kent", "Linus", "Marnie", "Pierre" ],
+        "Neutral": [ "Elliot", "Harvey", "Emily", "Maru", "Penny", "Caroline", "Clint", "Evelyn", "George", "Gus", "Krobus", "Leo", "Lewis", "Robin", "Sandy", "Willy" ],
+        "Dislike": [ "Abigail", "Haley", "Dwarf", "Jas", "Pam", "Vincent", "Wizard" ],
+        "Hate": [ "Sebastian" ],
+
+    },
+}

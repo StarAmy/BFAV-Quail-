@@ -1,0 +1,35 @@
+{
+    "Name": "Bacon-Wrapped Quail Stuffed with Goat Cheese",
+    "Description": "A hearty, protein-filled meal.",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "Price": 1150,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Goat Cheese",
+             "Count": 1,
+              },
+             {
+             "Object": "Bacon",
+             "Count": 1,
+            },
+            {
+             "Object": "Quail Meat",
+             "Count": 1,
+            }           
+            ],
+            "IsDefault": true,
+            },    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Robin" ],
+        "Like": [ "George", "Alex", "Caroline", "Jodi", "Gus", "Linus" ],
+        "Neutral": [ "Elliot", "Emily", "Maru", "Penny", "Clint", "Evelyn", "Krobus", "Leo", "Lewis", "Sandy", "Willy",  "Abigail", "Haley", "Dwarf", "Pam", "Wizard", "Sam", "Demetrius", "Kent", "Marnie", "Pierre", "Shane"],
+        "Dislike": [ "Leah", "Sebastian", "Harvey", "Vincent", "Jas"],
+
+    },
+}

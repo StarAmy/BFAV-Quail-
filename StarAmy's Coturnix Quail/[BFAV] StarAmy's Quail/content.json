@@ -1,0 +1,55 @@
+{
+	"Format": "1.0",
+	"Categories": [
+		{
+			"Action": "Create",
+			"Category": "Quail",
+			"Types": [
+				{
+					"Type": "Male Quail",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "2/3/Manure/Quail Feather/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/Quail Meat/600/Male Quail/Coop",
+					"Sprites": {
+						"Adult": "assets/MaleQuail.png",
+						"Baby": "assets/BabyQuail.png"
+					}
+				},
+				{
+					"Type": "Female Quail",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "2/3/Quail Egg/Large Quail Egg/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/Quail Meat/600/Female Quail/Coop",
+					"Sprites": {
+						"Adult": "assets/FemaleQuail.png",
+						"Baby": "assets/BabyQuail.png"
+					}
+				},
+				{
+					"Type": "Female Celadon Quail",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "2/3/Blue Quail Egg/Large Blue Quail Egg/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/Quail Meat/600/Female Celadon Quail/Coop",
+					"Sprites": {
+						"Adult": "assets/FemaleQuail.png",
+						"Baby": "assets/BabyQuail.png"
+					}
+				},
+			],
+			"Buildings": [
+				"Deluxe Coop",
+				"Big Coop",
+			],
+			"AnimalShop": {
+				"Name": "Quail",
+				"Description": "These birds produce valuable eggs.",
+				"Price": 1200,
+				"Icon": "assets\\animal_shop_quail.png",
+				"Exclude": [
+					"Void Chicken"
+				]
+			},
+			"ForceRemoveFromShop": false,
+			"ForceOverrideTypes": true,
+			"ForceOverrideBuildings": true,
+			"ForceOverrideExclude": true
+		},
+	]
+}

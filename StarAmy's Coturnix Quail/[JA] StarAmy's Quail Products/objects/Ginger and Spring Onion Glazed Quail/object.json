@@ -1,0 +1,36 @@
+{
+    "Name": "Ginger and Spring Onion Roasted Quail",
+    "Description": "A rich, zesty dish.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 450,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Spring Onion",
+             "Count": 1,
+              },
+             {
+             "Object": "Ginger",
+             "Count": 1,
+            },
+            {
+             "Object": "Quail Meat",
+             "Count": 1,
+            }           
+            ],
+            "IsDefault": true,
+            },    "CanPurchase": false,     
+    "CanPurchase": false, 
+    "GiftTastes":
+   {
+        "Love": [ "Harvey", "Linus" ],
+        "Like": [ "George", "Alex", "Robin", "Gus", ],
+        "Neutral": [ "Emily", "Maru", "Penny", "Clint", "Evelyn", "Lewis", "Sandy", "Willy", "Abigail", "Pam", "Demetrius", "Kent", "Marnie" ],
+        "Dislike": [ "Leah", "Jodi", "Caroline", "Haley", "Dwarf", "Elliot", "Jas", "Krobus", "Leo", "Sam", "Sebastian",  "Wizard", "Vincent", "Pierre", "Shane" ],
+
+    },
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Pickled Quail Eggs",
+    "Description": "A jar of unique, tangy, bite-sized treats.",
+    "Category": "ArtisanGoods",
+    "Edibility": 20,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Leah", "Jodi" ],
+        "Like": [ "Alex", "Demetrius", "Kent", "Linus", "Marnie", "Pierre", "Harvey" ],
+        "Neutral": [ "Elliot", "Emily", "Maru", "Penny", "Caroline", "Clint", "Evelyn", "George", "Gus", "Krobus", "Leo", "Lewis", "Robin", "Sandy", "Willy" ],
+        "Dislike": [ "Abigail", "Haley", "Dwarf", "Jas", "Pam", "Vincent", "Wizard", "Shane", "Sam"],
+        "Hate": [ "Sebastian" ],
+
+    },
+}

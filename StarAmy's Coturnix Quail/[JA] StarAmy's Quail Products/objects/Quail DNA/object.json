@@ -1,0 +1,14 @@
+{
+    "Name": "Quail DNA",
+    "Description": "Used in crafting fertile quail eggs.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 0,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+		"Dislike": ["Abigail", "Alex", "Elliot", "Harvey", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}

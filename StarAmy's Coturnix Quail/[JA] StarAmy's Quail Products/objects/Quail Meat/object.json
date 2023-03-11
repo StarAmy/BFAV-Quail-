@@ -1,0 +1,17 @@
+{
+    "Name": "Quail Meat",
+    "Description": "Cleaned quail meat, ready for cooking.",
+    "Category": "AnimalGoods",
+    "Edibility": 15,
+    "Price": 350,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+        {
+        "Like": [ "George", "Alex", "Caroline", "Jodi", "Robin", "Gus", "Harvey", "Linus" ],
+        "Neutral": [ "Elliot", "Emily", "Maru", "Penny", "Clint", "Evelyn", "Krobus", "Leo", "Lewis", "Sandy", "Willy", "Sebastian", "Abigail", "Haley", "Dwarf", "Jas", "Pam", "Vincent", "Wizard", "Sam", "Demetrius", "Kent", "Marnie", "Pierre", "Shane"],
+        "Dislike": [ "Leah" ],
+
+    },
+}

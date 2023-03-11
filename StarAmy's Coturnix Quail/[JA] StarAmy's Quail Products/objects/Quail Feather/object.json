@@ -1,0 +1,19 @@
+{
+    "Name": "Quail Feather",
+    "Description": "Might contain some genetic material.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Leo", "Elliot" ],
+        "Like": [ "Harvey" ],
+		"Neutral": [ "Abigail", "Dwarf", "Alex", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodie", "Kent", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"],
+        "Dislike": [ "Penny" ],
+
+
+    },
+}

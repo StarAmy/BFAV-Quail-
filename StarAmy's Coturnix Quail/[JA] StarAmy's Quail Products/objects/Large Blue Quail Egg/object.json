@@ -1,0 +1,19 @@
+{
+    "Name": "Large Blue Quail Egg",
+    "Description": "A slightly less tiny blue quail egg.",
+    "Category": "Egg",
+    "Edibility": 15,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Love": [ "Leah", "Jodi", "Shane" ],
+        "Like": [ "Alex", "Sam", "Demetrius", "Kent", "Linus", "Marnie", "Pierre" ],
+        "Neutral": [ "Elliot", "Harvey", "Emily", "Maru", "Penny", "Caroline", "Clint", "Evelyn", "George", "Gus", "Krobus", "Leo", "Lewis", "Robin", "Sandy", "Willy" ],
+        "Dislike": [ "Abigail", "Haley", "Dwarf", "Jas", "Pam", "Vincent", "Wizard" ],
+        "Hate": [ "Sebastian" ],
+
+    },
+}

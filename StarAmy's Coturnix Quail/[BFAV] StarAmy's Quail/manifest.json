@@ -1,0 +1,10 @@
+{
+  "Name": "[BFAV] StarAmy's Quail",
+  "Author": "StarAmy",
+  "Version": "1.0",
+  "Description": "Adds horses as barn animals using BFAV.",
+  "UniqueID": "StarAmy.Quail",
+  "ContentPackFor": {
+    "UniqueID": "Paritee.BetterFarmAnimalVariety"
+  }
+}
